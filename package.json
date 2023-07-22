@@ -1,0 +1,19 @@
+{
+  "name": "dial",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "vite",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "elm": "^0.19.1-5",
+    "elm-format": "^0.8.7",
+    "elm-test": "^0.19.1-revision12",
+    "postcss": "^8.4.26",
+    "tailwindcss": "^3.3.3",
+    "vite": "^4.4.5",
+    "vite-plugin-elm": "^2.8.0"
+  }
+}
+
